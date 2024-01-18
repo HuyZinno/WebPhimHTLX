@@ -1,0 +1,514 @@
+C:\Users\HP\source\repos\HTLX\HTLX\bin\HTLX.dll.config
+C:\Users\HP\source\repos\HTLX\HTLX\bin\HTLX.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\HTLX.pdb
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\csc.exe
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\csc.exe.config
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\csc.rsp
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\csi.exe
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\csi.exe.config
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\csi.rsp
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.AppContext.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Console.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\vbc.exe
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\vbc.exe.config
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\vbc.rsp
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\source\repos\HTLX\HTLX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\source\repos\HTLX\HTLX\bin\Antlr3.Runtime.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\System.Web.Optimization.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\WebGrease.dll
+C:\Users\HP\source\repos\HTLX\HTLX\bin\System.Web.Optimization.xml
+C:\Users\HP\source\repos\HTLX\HTLX\bin\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\HTLX\HTLX\bin\Antlr3.Runtime.pdb
+C:\Users\HP\source\repos\HTLX\HTLX\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HP\source\repos\HTLX\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\source\repos\HTLX\HTLX\obj\Debug\HTLX.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\HTLX\HTLX\obj\Debug\HTLX.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HTLX\HTLX\obj\Debug\HTLX.csproj.CopyComplete
+C:\Users\HP\source\repos\HTLX\HTLX\obj\Debug\HTLX.dll
+C:\Users\HP\source\repos\HTLX\HTLX\obj\Debug\HTLX.pdb
+E:\PTPMCN\HTLX_Phim\HTLX\bin\HTLX.dll.config
+E:\PTPMCN\HTLX_Phim\HTLX\bin\HTLX.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\HTLX.pdb
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\csc.exe
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\csc.exe.config
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\csc.rsp
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\csi.exe
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\csi.exe.config
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\csi.rsp
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.AppContext.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Collections.Immutable.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Console.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Globalization.Calendars.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.IO.Compression.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.IO.FileSystem.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Net.Http.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Net.Sockets.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Reflection.Metadata.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.ValueTuple.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XPath.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\vbc.exe
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\vbc.exe.config
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\vbc.rsp
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\VBCSCompiler.exe
+E:\PTPMCN\HTLX_Phim\HTLX\bin\roslyn\VBCSCompiler.exe.config
+E:\PTPMCN\HTLX_Phim\HTLX\bin\Antlr3.Runtime.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\AspNet.ScriptManager.jQuery.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\Microsoft.ScriptManager.WebForms.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\Microsoft.Web.Infrastructure.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\Newtonsoft.Json.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\System.Web.Optimization.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\WebGrease.dll
+E:\PTPMCN\HTLX_Phim\HTLX\bin\System.Web.Optimization.xml
+E:\PTPMCN\HTLX_Phim\HTLX\bin\Newtonsoft.Json.xml
+E:\PTPMCN\HTLX_Phim\HTLX\bin\Antlr3.Runtime.pdb
+E:\PTPMCN\HTLX_Phim\HTLX\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\PTPMCN\HTLX_Phim\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PTPMCN\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.AssemblyReference.cache
+E:\PTPMCN\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.CoreCompileInputs.cache
+E:\PTPMCN\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.CopyComplete
+E:\PTPMCN\HTLX_Phim\HTLX\obj\Debug\HTLX.dll
+E:\PTPMCN\HTLX_Phim\HTLX\obj\Debug\HTLX.pdb
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\HTLX.dll.config
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\HTLX.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\HTLX.pdb
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\csc.exe
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\csc.exe.config
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\csc.rsp
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\csi.exe
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\csi.exe.config
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\csi.rsp
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.AppContext.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Collections.Immutable.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Console.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Globalization.Calendars.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.IO.Compression.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.IO.FileSystem.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Net.Http.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Net.Sockets.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.ValueTuple.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XPath.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\vbc.exe
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\vbc.exe.config
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\vbc.rsp
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\VBCSCompiler.exe
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\roslyn\VBCSCompiler.exe.config
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\Antlr3.Runtime.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\AspNet.ScriptManager.jQuery.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\Microsoft.Web.Infrastructure.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\Newtonsoft.Json.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\System.Web.Optimization.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\WebGrease.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\System.Web.Optimization.xml
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\Newtonsoft.Json.xml
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\Antlr3.Runtime.pdb
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Tổng hợp\HTLX_Phim\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tổng hợp\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.AssemblyReference.cache
+E:\Tổng hợp\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.CoreCompileInputs.cache
+E:\Tổng hợp\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.CopyComplete
+E:\Tổng hợp\HTLX_Phim\HTLX\obj\Debug\HTLX.dll
+E:\Tổng hợp\HTLX_Phim\HTLX\obj\Debug\HTLX.pdb
+<<<<<<< Updated upstream
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\HTLX.dll.config
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\HTLX.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\HTLX.pdb
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\csc.exe
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\csc.exe.config
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\csc.rsp
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\csi.exe
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\csi.exe.config
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\csi.rsp
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.AppContext.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Console.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.IO.Compression.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Net.Http.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.ValueTuple.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\vbc.exe
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\vbc.exe.config
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\vbc.rsp
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\VBCSCompiler.exe
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\Antlr3.Runtime.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\Newtonsoft.Json.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\System.Web.Optimization.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\WebGrease.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\System.Web.Optimization.xml
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\Newtonsoft.Json.xml
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\Antlr3.Runtime.pdb
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.AssemblyReference.cache
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.CopyComplete
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\obj\Debug\HTLX.dll
+C:\Users\FPT\Desktop\web\HTLX_Phim\HTLX\obj\Debug\HTLX.pdb
+=======
+>>>>>>> Stashed changes
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\HTLX.dll.config
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\HTLX.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\HTLX.pdb
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\csc.exe
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\csc.exe.config
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\csc.rsp
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\csi.exe
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\csi.exe.config
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\csi.rsp
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.AppContext.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Console.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\vbc.exe
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\vbc.exe.config
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\vbc.rsp
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\Antlr3.Runtime.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\System.Web.Optimization.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\WebGrease.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\System.Web.Optimization.xml
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\Antlr3.Runtime.pdb
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.CopyComplete
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\obj\Debug\HTLX.dll
+C:\Users\HP\source\repos\HTLX_Phim\HTLX\obj\Debug\HTLX.pdb
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\HTLX.dll.config
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\HTLX.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\HTLX.pdb
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\csc.exe
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\csc.exe.config
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\csc.rsp
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\csi.exe
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\csi.exe.config
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\csi.rsp
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.AppContext.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Console.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\vbc.exe
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\vbc.exe.config
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\vbc.rsp
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\Antlr3.Runtime.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\Newtonsoft.Json.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\System.Web.Optimization.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\WebGrease.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\System.Web.Optimization.xml
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\Newtonsoft.Json.xml
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\Antlr3.Runtime.pdb
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HP\source\HTLX_Phim\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\source\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.AssemblyReference.cache
+C:\Users\HP\source\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.CopyComplete
+C:\Users\HP\source\HTLX_Phim\HTLX\obj\Debug\HTLX.dll
+C:\Users\HP\source\HTLX_Phim\HTLX\obj\Debug\HTLX.pdb
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\HTLX.dll.config
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\HTLX.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\HTLX.pdb
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\csc.exe
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\csc.exe.config
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\csc.rsp
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\csi.exe
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\csi.exe.config
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\csi.rsp
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.AppContext.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Console.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Net.Http.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\vbc.exe
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\vbc.exe.config
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\vbc.rsp
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\System.Web.Optimization.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\WebGrease.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\System.Web.Optimization.xml
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\Antlr3.Runtime.pdb
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\obj\Debug\HTLX.csproj.CopyComplete
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\obj\Debug\HTLX.dll
+C:\Users\MSI\Downloads\HTLX_Phim\HTLX_Phim\HTLX\obj\Debug\HTLX.pdb
